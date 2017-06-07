@@ -1,6 +1,8 @@
 # Cryptopals
 
-**TODO: Add description**
+[![Build Status](https://travis-ci.org/sebfio/cryptopals.svg?branch=master)](https://travis-ci.org/sebfio/cryptopals)
+
+Cryptopal challenges in Elixir! Learning both at the same time wooooo!
 
 ## Installation
 
